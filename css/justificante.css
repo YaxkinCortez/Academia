@@ -1,0 +1,38 @@
+.asunto{
+	font-size:14px;
+	font-family: Arial;
+	text-align: right;
+	font-weight: bold;
+}
+
+.cabezote{
+	text-align: center;
+}
+
+.docente{
+	font-size: 14px;
+	font-family: Arial;
+	text-align: left;
+	font-weight: bold;
+}
+
+.principal{
+	font-family: Arial;
+	font-size: 12px;
+	text-align: justify;
+}
+
+.pie{
+	text-align: center;
+}
+
+.firma{
+	font-size:14px;
+	font-family: Arial;
+	text-align: center;
+	font-weight: bold;
+}
+
+.imagenfirma{
+	text-align: center;
+}
